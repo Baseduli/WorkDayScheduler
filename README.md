@@ -1,6 +1,6 @@
 # WorkDayScheduler
 
-Project was created to help schedule your day and plan for upcoming events. 
+Project was created to help schedule your day and plan for upcoming events. [Click here to go to site](https://baseduli.github.io/WorkDayScheduler/)
 
 ## Built with
 Project is coded using html, CSS, JavaScript, Jquery, and includes other third party api 
