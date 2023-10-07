@@ -33,7 +33,7 @@ $(function () {
   });
 
   $('.time-block').each(function () {
-    // ...
+    // ..
   });
 
   $('.time-block').each(function () {
